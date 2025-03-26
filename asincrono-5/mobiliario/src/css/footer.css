@@ -1,0 +1,59 @@
+
+
+.Footer-ul{
+    display: flex;
+    gap: 7rem;
+   
+  
+    padding-bottom: 2rem;
+    padding-left: 6rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+    border-top: 1px solid black;
+}
+
+
+.Footer-li{
+    list-style: none;
+    cursor: pointer;
+    padding-top: 2rem;
+    
+}
+
+
+.Footer-p1{
+    color: grey;
+}
+
+.active{
+    font-weight: 600;
+    border-top: 3px solid black;
+}
+
+
+
+
+/* header */
+
+
+
+
+.Header-ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 6rem;
+}
+
+.Header-li{
+    list-style: none;
+}
+
+.logo{
+    font-weight: 600;
+}
+
+.Header-icon{
+    font-size: 28px;
+}

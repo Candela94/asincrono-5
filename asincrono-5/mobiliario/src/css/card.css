@@ -1,0 +1,38 @@
+
+.Card{
+
+    display: flex;
+    gap: 40%;
+    margin: 3rem;
+    padding: 3rem;
+}
+
+.Texto{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.Fab, .Descripcion{
+    font-size: 14px;
+    color: grey;
+}
+
+.Nombre{
+    font-weight: 600;
+}
+
+
+.Button{
+    font-family: poppins;
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 0.7rem;
+}
+
+
+.Imagen{
+    border: 2px solid black;
+    width: 200px;
+}
